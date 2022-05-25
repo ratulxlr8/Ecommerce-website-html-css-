@@ -39,4 +39,17 @@
         flex-direction: column;
         align-items: center;
     }
+    .single-product .row{
+        text-align: left;
+    }
+    .single-product .col-2{
+        text-align: 20px 0;
+    }
+    .single-product h1{
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .cart-info p{
+        font-size: .9rem;
+    }
 }
